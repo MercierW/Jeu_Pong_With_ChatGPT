@@ -1,8 +1,5 @@
 # Jeu Pong
 
-
-
-
 🏓 Pong en JavaScript (ES6 Modules)
 Un jeu de Pong simple en JavaScript utilisant les modules ES6 (import/export).
 Contrôlez les raquettes et marquez des points en faisant rebondir la balle ! ⚡
@@ -68,20 +65,3 @@ Canvas API 🖌️
 ✅ Comptage des scores
 ✅ Structure en modules ES6
 ✅ Code clair et organisé
-
-💡 Améliorations possibles
-✨ IA pour jouer contre l'ordinateur 🤖
-✨ Effets sonores et animations 🎵
-✨ Mode multijoueur en ligne 🌍
-
-📜 Licence
-Ce projet est sous licence MIT. Tu peux l'utiliser, le modifier et le partager librement. 😃
-
-🚀 Amuse-toi bien avec ton Pong en JavaScript ! 🏓🎮
-
-
-
-
-
-
-
