@@ -1,5 +1,8 @@
 # Jeu Pong
 
+Jouer au jeu -> https://mercierw.github.io/Jeu_Pong_With_ChatGPT/
+
+
 🏓 Pong en JavaScript (ES6 Modules)
 Un jeu de Pong simple en JavaScript utilisant les modules ES6 (import/export).
 Contrôlez les raquettes et marquez des points en faisant rebondir la balle ! ⚡
